@@ -12,7 +12,8 @@ I have a [Casio CTS1](https://www.casio.com/it/electronic-musical-instruments/pr
 possible to split the keys and having multiple voices in different parts of the keyboard. It is possible with this app now.
 
 ## Instruction
-Download the apk, or clone and build with android studio. App is very basic but *it works on my phone*. Only wired connection (usb) is available, and you must keep 
+Download the [apk](https://github.com/torydebra/casio_cts1_midi_controller/releases/tag/v1.0), or clone the repo and build with android studio.  
+App is very basic but *it works on my phone*. Only wired connection (usb) is available, and you must keep 
 the phone connected to the keyboard. I feel no latency buy I am not absolutely an expert. Also, you should mute the first sound layer by pressing ```function + F#2```
 
 ## Features
@@ -39,7 +40,7 @@ for some [secure issues](https://stackoverflow.com/questions/63026587/web-midi-o
 So the app. 
 
 ## TODOs
-App is very basic and with for sure improvable design, since I have not so much time but it is anyway working I am releasing as it is for now.  
+App is very basic and with for sure improvable design. Even the repo may be a bit messy. Since I have not so much time for this but it is anyway working I am releasing as it is for now.  
 I would like to improve it one day adding:
 - Pitch/modulation wheels
 - Save configuration file to keep the "shortcut voices"
