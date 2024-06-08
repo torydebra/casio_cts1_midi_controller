@@ -1,8 +1,8 @@
 // Enable WEBMIDI.js and trigger the onEnabled() function when ready
-WebMidi
-    .enable()
-    .then(onEnabled)
-    .catch(err => alert(err));
+// WebMidi
+//     .enable()
+//     .then(onEnabled)
+//     .catch(err => alert(err));
 
 let split = "C4";
 splitNote = new Note(split);

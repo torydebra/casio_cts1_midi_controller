@@ -1,0 +1,29 @@
+.button-voice {
+    display: none;
+
+}
+
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dropdown-menu {
+    width: 1000%;
+    text-align: center;
+    right: -100px;
+    position: static;
+    }
+
+    .dropdown-instruments {
+      display: none;
+      position: static;
+      top: 0;
+      left: 0;
+      background-color: #f1f1f1;
+      min-width: 100%;
+      z-index: 1;
+    }
+
