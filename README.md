@@ -1,5 +1,13 @@
 # casio_cts1_midi_controller
 
+<p align="center">
+  <img src="img/cts1.png" width="500" /></br>
+  <img src="img/app1.jpeg" width="400" /> 
+  <img src="img/app2.jpeg" width="400" />
+</p>
+
+
+
 I have a [Casio CTS1](https://www.casio.com/it/electronic-musical-instruments/product.CT-S1BKSET/) keyboard but it is not "officially" 
 possible to split the keys and having multiple voices in different parts of the keyboard. It is possible with this app now.
 
