@@ -8,7 +8,7 @@
 
 
 
-I have a [Casio CTS1](https://www.casio.com/it/electronic-musical-instruments/product.CT-S1BKSET/) keyboard but it is not "officially" 
+I have a [Casio Casiotone CT-S1](https://www.casio.com/it/electronic-musical-instruments/product.CT-S1BKSET/) keyboard but it is not "officially" 
 possible to split the keys and having multiple voices in different parts of the keyboard. It is possible with this app now.
 
 ## Instruction
